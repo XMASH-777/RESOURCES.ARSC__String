@@ -52,10 +52,12 @@ YT:XMAS = สีแดง
 
 ตัวอย่างโค้ดที่มีการใช้ตัวหนาและตัวเอียง:
 
+![Screenshot_2024-12-02-13-29-17-08_64ef5fc2000c1caa954c114bb372e1d5](https://github.com/user-attachments/assets/59c9e7b5-7664-4f74-9bd9-91662f91f715)
+
+
 ```
-<a href="https://example.com" style="color:blue;"><b>ยินดีต้อนรับ</b></a><br>
-<span style="color:red;"><strong>YT: X-MAS</strong></span><br>
-Patches version <i style="color:green;"><em>%s</em></i>
+<a href="https://www.facebook.com/Pawaem1788?mibextid=ZbWKwL" style="color:blue;"><b>FACEBOOK</b></a><br><br>
+<span style="color:red;"><strong>MODS BY X-MAS</strong></span> 🇱🇦<br><br><strong>version</strong>  <i style="color:green;"><b>%s</b></i>
 ```
 
 ในตัวอย่างนี้:
