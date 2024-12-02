@@ -33,11 +33,11 @@ YT:XMAS = สีแดง
 <i style="color:green;">%s</i>
 ```
 : ทำให้คำที่อยู่ใน <i> เป็นสีเขียว
-
-<i เสพราะ จุดนั้นๆ 
-[<br>](#<br>)
-
-# README
-
-This is a 
-<span style="color:blue">blue</span> text.
+```
+<i
+```
+เสพราะ จุดนั้นๆ 
+```
+<br>
+```
+> hijk
