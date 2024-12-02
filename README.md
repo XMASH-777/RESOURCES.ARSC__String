@@ -36,3 +36,7 @@ YT:XMAS = สีแดง
 
 <i เสพราะ จุดนั้นๆ 
 [<br>](#<br>)
+
+# README
+
+This is a <span style="color:blue">blue</span> text.
