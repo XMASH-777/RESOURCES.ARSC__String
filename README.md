@@ -24,5 +24,7 @@ YT:XMAS = สีแดง
 <span style="color: blue;">ยินดีต้อนรับ</span> 🇱🇦 <span style="color: red;">YT: XMAST</span> Patches version <i><span style="color: green;">%s</span></i>
 ```
 ## อธิบาย
-
-. <span style="color:red;">YT: X-MAS</span>: ทำให้คำว่า "YT: X-MAS" เป็นสีแดง
+```
+<span style="color:red;">YT: X-MAS</span>
+```
+: ทำให้คำว่า "YT: X-MAS" เป็นสีแดง
