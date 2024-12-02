@@ -28,3 +28,9 @@ YT:XMAS = สีแดง
 <span style="color:red;">YT: X-MAS</span>
 ```
 : ทำให้คำว่า "YT: X-MAS" เป็นสีแดง
+
+```
+<i style="color:green;">%s</i>
+```
+: ทำให้คำที่อยู่ใน <i> เป็นสีเขียว
+
