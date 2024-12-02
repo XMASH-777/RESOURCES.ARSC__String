@@ -64,7 +64,7 @@ Patches version <i style="color:green;"><em>%s</em></i>
 ```
 <strong>YT: X-MAS</strong>
 ```
-ทำให้ **"YT: X-MAS"**
+ปิด `</strong>` ทำให้ ***"YT: X-MAS"**
 เป็นตัวหนา
 ```
 <i><em>%s</em></i> 
