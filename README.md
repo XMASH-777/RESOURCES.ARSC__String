@@ -72,5 +72,16 @@ YT:XMAS = สีแดง
 <i><em>%s</em></i> 
 ```
 ทำให้ข้อความ %s เป็นตัวเอียง
+![Screenshot_2025-01-31-17-44-55-24_2c4a535d9f33662df7a2fbbbba8d5f86](https://github.com/user-attachments/assets/67ee34cb-accf-4a67-8855-8943d605db9d)
+
+```
+<strong><span style="color: blue;">Created By TMUX.. USE BYPASS.?</span></strong><br><br>
+
+<strong><span style="color: red;">Turn ON VPN Bypass On First Loading Screen FreeFire</span></strong><br><br>
+<span style="color: red;">BYPASS WORKS All Mod FreeFire .</span><br><br>
+
+Enjoy
+```
+
 
 
