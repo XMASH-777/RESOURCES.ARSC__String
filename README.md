@@ -6,7 +6,6 @@
 ```
 <a href="https://www.facebook.com/Pawaem1788?mibextid=ZbWKwL" style="color: blue;">ยินดีต้อนรับ</a> 🇱🇦 YT: XMAST Patches version <i>%s</i>
 ```
-
 ## ຄຳສັ່ງ ສະເເດງເວີຊັ່ນ
 ຫລັງຈາກ patch version 
 ```
@@ -80,8 +79,17 @@ YT:XMAS = สีแดง
 <strong><span style="color: red;">Turn ON VPN Bypass On First Loading Screen FreeFire</span></strong><br><br>
 <span style="color: red;">BYPASS WORKS All Mod FreeFire .</span><br><br>
 
-Enjoy
+![Screenshot_2025-09-27-21-33-29-97_64ef5fc2000c1caa954c114bb372e1d5](https://github.com/user-attachments/assets/055e7623-8a1b-4cf2-b515-1e4687cb8e33)
 ```
+<strong><span style="color:red;">Channel</span></strong>
+```
+
+![Screenshot_2025-09-27-21-37-51-33_64ef5fc2000c1caa954c114bb372e1d5](https://github.com/user-attachments/assets/eaba012a-3253-4ccd-9720-ae19f471afd2)
+
+```
+<span style="color: blue;">ຍິນດີຕ້ອນຮັບ</span> 🇱🇦 <span style="color: red;">PreMium: ແຮັກເກີລັດ 모</span> Patches version <i><span style="color: green;">%s</span></i>
+```
+
 
 
 
