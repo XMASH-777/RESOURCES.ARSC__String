@@ -86,3 +86,10 @@ YT:XMAS = สีแดง
 <strong><span style="color:red;">Channel</span></strong>
 ```
 
+![Screenshot_2025-09-27-21-37-51-33_64ef5fc2000c1caa954c114bb372e1d5](https://github.com/user-attachments/assets/29f77014-5502-43cc-af4f-df660408c6ef)
+
+```
+<span style="color: blue;">ຍິນດີຕ້ອນຮັບ</span> 🇱🇦 <span style="color: red;">PreMium: ແຮັກເກີລັດ 모</span> Patches version <i><span style="color: green;">%s</span></i>
+```
+
+
