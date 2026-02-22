@@ -91,5 +91,10 @@ YT:XMAS = สีแดง
 ```
 <span style="color: blue;">ຍິນດີຕ້ອນຮັບ</span> 🇱🇦 <span style="color: red;">PreMium: ແຮັກເກີລັດ 모</span> Patches version <i><span style="color: green;">%s</span></i>
 ```
+![Screenshot_2026-02-22-12-09-29-30_b50abca68101f9ac06900ab663f0038c](https://github.com/user-attachments/assets/056dbbfc-1811-412a-8c0b-fa7a121d564b)
+
+```
+<span style="color: blue;">ຍິນດີຕ້ອນຮັບ</span> YouTube <span style="color: red;">PreMium: Morphe </span> Patches version <i><span style="color: green;">%s</span></i>
+```
 
 
